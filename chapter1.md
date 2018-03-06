@@ -1,4 +1,4 @@
 # OBJETIVO GENERAL DEL MÓDULO
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+ Que al finalizar esta capacitación, el Funcionario de la Procuraduría General de la Nación conozca y aplique el nuevo modelo de procesos de negocio y este en capacidad de manejar el Sistema de información misional que lo soporta.
 
