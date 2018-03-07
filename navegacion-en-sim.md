@@ -23,12 +23,12 @@ La Interfaz gráfica del SIM  está compuesta por dos áreas básicas:  El cabez
 #### • Iconos del cabezote:
 
 
-|  ICONOS    | DESCRIPCION|
-| ---- | ---- |
-|  ![](/assets/import11.png)	| **Iconos de acceso directo:** Permiten el acceso a las acciones que el Usuario realiza con más frecuencia. Se definen de acuerdo con el perfil del Usuario, es decir sus accesos y permisos en el sistema. |
-| ![](/assets/import12.png) | **Menú:** El Funcionario podrá acceder a diferentes opciones según su perfil.  Permite acceder a la lista de tareas a realizar. |
-|  ![](/assets/import13.png)	|  **Nombre de Usuario, Fecha y hora.** |
-|	 ![](/assets/import14.png)	|	**Salir:** Permite al Usuario abandonar la sesión |
+|	  ICONOS   	|		DESCRIPCION|	
+|	 ----	|		----	|	
+|	  ![](/assets/import11.png)	|	 **Iconos de acceso directo:** Permiten el acceso a las acciones que el Usuario realiza con más frecuencia. Se definen de acuerdo con el perfil del Usuario, es decir sus accesos y permisos en el sistema.	|	
+|	 ![](/assets/import12.png)	|		**Menú:** El Funcionario podrá acceder a diferentes opciones según su perfil.  Permite acceder a la lista de tareas a realizar.	|	
+|	  ![](/assets/import13.png)	|	  **Nombre de Usuario, Fecha y hora.**	|	
+|		 ![](/assets/import14.png)	|		**Salir:** Permite al Usuario abandonar la sesión	|	
 
 
 ##### • Lista de trabajo:
@@ -64,47 +64,48 @@ Presenta los casos que están asignados al Funcionario. Sus componentes son:
 
 * Campos más relevantes en los formularios:
 
-|  ICONOS    | DESCRIPCION|
-| ---- | ---- |
-|	1	| Título: Nombre de la tarea escogida de la lista de trabajo.|
-|	2	| Subtítulos: El usuario puede ver la información contenida en los formularios agrupada por temas específicos detallados en los diferentes subtítulos; estos están identificados con un cuadro Azul previo al nombre del subtítulo.|
-|	3	| Campos de Texto: En algunos casos el usuario encontrará espacios en donde debe diligenciar el campo con la información correspondiente.|
-|	4	| Áreas de texto: En estos campos el usuario debe ingresar información relacionada con motivaciones, razones o anexos a las decisiones tomadas en las diferentes actividades.|
-|	5	| Listas desplegables: El Usuario podrá seleccionar de la lista la opción predefinida que escoja.|
-|	6	| Campo agregar información: En este campo el usuario debe seleccionar la opción adecuada y agregarla con el icono &gt;, si desea eliminar una selección debe hacer clic en el icono &lt;.|
-|	7	| Casilla de Verificación: Se utilizan para seleccionar una sola opción. Para activarla debe hacer click dentro de la casilla de verificación.|
-|	8	| Campos obligatorios: Son aquellos campos que siempre deben diligenciarse, son imprescindibles. Se identifican porque tienen un asterisco en rojo.|
-|	9	| Barra de Herramientas: Esta barra está presente cuando el usuario necesita aplicar algún instrumento o función determinada dentro del área de trabajo en una Actividad.,Para desplegar esta opción el usuario debe hacer clic en el icono ubicado en la parte superior del formulario, para minimizar y generar más espacio en el área de trabajo el usuario debe hacer clic en el ícono . Lo primero que el funcionario encontrará serán los instrumentos agrupados en categorías según el área misional. En una zona especial el usuario podrá tener funciones determinadas, estas se mostrarán a través de íconos y de la barra denominada Funciones.|
+|	  ICONOS	|		DESCRIPCION|	
+|	 ----	|		----	|	
+|		1	|	 Título: Nombre de la tarea escogida de la lista de trabajo.|	
+|		2	|	 Subtítulos: El usuario puede ver la información contenida en los formularios agrupada por temas específicos detallados en los diferentes subtítulos; estos están identificados con un cuadro Azul previo al nombre del subtítulo.|	
+|		3	|	 Campos de Texto: En algunos casos el usuario encontrará espacios en donde debe diligenciar el campo con la información correspondiente.|	
+|		4	|	 Áreas de texto: En estos campos el usuario debe ingresar información relacionada con motivaciones, razones o anexos a las decisiones tomadas en las diferentes actividades.|	
+|		5	|	 Listas desplegables: El Usuario podrá seleccionar de la lista la opción predefinida que escoja.|	
+|		6	|	 Campo agregar información: En este campo el usuario debe seleccionar la opción adecuada y agregarla con el icono &gt;, si desea eliminar una selección debe hacer clic en el icono &lt;.|	
+|		7	|	 Casilla de Verificación: Se utilizan para seleccionar una sola opción. Para activarla debe hacer click dentro de la casilla de verificación.|	
+|		8	|	 Campos obligatorios: Son aquellos campos que siempre deben diligenciarse, son imprescindibles. Se identifican porque tienen un asterisco en rojo.|	
+|		9	|	 Barra de Herramientas: Esta barra está presente cuando el usuario necesita aplicar algún instrumento o función determinada dentro del área de trabajo en una Actividad.,Para desplegar esta opción el usuario debe hacer clic en el icono ubicado en la parte superior del formulario, para minimizar y generar más espacio en el área de trabajo el usuario debe hacer clic en el ícono . Lo primero que el funcionario encontrará serán los instrumentos agrupados en categorías según el área misional. En una zona especial el usuario podrá tener funciones determinadas, estas se mostrarán a través de íconos y de la barra denominada Funciones.|	
 
 • Botones:
-|  ICONOS    | DESCRIPCION|
-| ---- | ---- |
-|    1   | Ubica al usuario en la pantalla Lista de Trabajo donde se listan las tareas. |
-|2  | Se utiliza para finalizar las actividades de los procesos misionales|
-|3  | Lleva al usuario fuera de la actividad que estaba realizando y lo ubica en la pantalla Lista de Trabajo |
-|    4   | Almacena temporalmente la información ingresada en los campos de cada una de las actividades |
-|  5| Al hacer clic en este botón dependiendo del criterio de búsqueda, muestra la información requerida de personas, funcionarios, autoridades, etc.|
-|    6   | Permite adicionar al formulario de manera permanente la información digitada en un área de texto. |
-|7  | Se presiona para revisar si existe un asunto en trámite asociado con los datos básicos de la solicitud. |
-| 8 | Al hacer clic en este botón el usuario genera documento.|
-|9  | Se utiliza para guardar el documento en el sistema.|
-|10  | Se utiliza cuando se desea crear o adicionar un nuevo documento |
+
+|	ICONOS	|	DESCRIPCION|	
+|	----	|	----	|	
+|	1	|	Ubica al usuario en la pantalla Lista de Trabajo donde se listan las tareas.	|	
+|	2 	|	Se utiliza para finalizar las actividades de los procesos misionales.	|	
+|	3 	|	Lleva al usuario fuera de la actividad que estaba realizando y lo ubica en la pantalla Lista de Trabajo.	|	
+|	4  	|	Almacena temporalmente la información ingresada en los campos de cada una de las actividades.	|	
+|	5	|	Al hacer clic en este botón dependiendo del criterio de búsqueda, muestra la información requerida de personas, funcionarios, autoridades, etc.	|
+|	6  	|	Permite adicionar al formulario de manera permanente la información digitada en un área de texto.	|
+|	7 	|	Se presiona para revisar si existe un asunto en trámite asociado con los datos básicos de la solicitud.	|
+|	8	|	Al hacer clic en este botón el usuario genera documento.	|
+|	9 	|	Se utiliza para guardar el documento en el sistema.	|	
+|	10 	|	Se utiliza cuando se desea crear o adicionar un nuevo documento	|
 
 
 • Iconos:
 
-|  ICONOS    | DESCRIPCION|
-| ---- | ---- |
-|    1   | Buscar: Al hacer clic en este icono, el sistema ubica donde corresponda el dato proporcionado.|
-| 2 | Agregar: Permite que el usuario pueda agregar datos al formulario. |
-|    4   | Editar: Haciendo clic en este botón, el usuario podrá modificar determinada información según el Caso. |
-|5  | Imprimir: Al hacer clic en este botón, se imprime el formulario que el usuario haya elegido como soporte al procedimiento realizado en el aplicativo. |
-| 6 | Eliminar: Permite al usuario eliminar datos del formulario. |
-|  7| Ver u Ocultar: Permite al usuario ver u ocultar los datos básicos de las actividades. |
-|8  | Ayuda en Línea: Permite al usuario ver la ayuda de cada formulario. |
-| 9 | Generar Documento: Al hacer clic en este icono el usuario genera el documento en formato PDF.|
-| 10 | Prioridad: Permite establecer la cercanía o lejanía de los términos de vencimiento de un caso o solicitud y se representa a través de banderas, La Prioridad puede ser Alta \(color rojo\), Media \(color amarillo\) o Baja \(color verde\). |
-|11  | Calendario: Permite introducir la fecha de alguna actividad. |
+|	  ICONOS   	|		DESCRIPCION|	
+|	 ----	|		----	|	
+|	    1  	|		Buscar: Al hacer clic en este icono, el sistema ubica donde corresponda el dato proporcionado.|	
+|	 2	|		Agregar: Permite que el usuario pueda agregar datos al formulario.	|	
+|	    4  	|		Editar: Haciendo clic en este botón, el usuario podrá modificar determinada información según el Caso.	|	
+|	5 	|		Imprimir: Al hacer clic en este botón, se imprime el formulario que el usuario haya elegido como soporte al procedimiento realizado en el aplicativo.	|	
+|	 6	|		Eliminar: Permite al usuario eliminar datos del formulario.	|	
+|	  7|	 Ver u Ocultar: Permite al usuario ver u ocultar los datos básicos de las actividades.	|	
+|	8 	|		Ayuda en Línea: Permite al usuario ver la ayuda de cada formulario.	|	
+|	 9	|		Generar Documento: Al hacer clic en este icono el usuario genera el documento en formato PDF.|	
+|	 10	|		Prioridad: Permite establecer la cercanía o lejanía de los términos de vencimiento de un caso o solicitud y se representa a través de banderas, La Prioridad puede ser Alta \(color rojo\), Media \(color amarillo\) o Baja \(color verde\).	|	
+|	11 	|		Calendario: Permite introducir la fecha de alguna actividad.	|	
 
 ** • Búsquedas Avanzada de Tareas:**
 
