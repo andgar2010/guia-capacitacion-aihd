@@ -11,4 +11,5 @@
 * [Cuál es el objetivo del SIM?](cual-es-el-objetivo-del-sim.md)
 * [Cuáles son sus beneficios?](cuales-son-sus-beneficios.md)
 * [MODELO DE PROCESOS DE NEGOCIO:](modelo-de-procesos-de-negocio.md)
+* [NAVEGACIÓN EN SIM](navegacion-en-sim.md)
 
