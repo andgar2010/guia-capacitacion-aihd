@@ -2,13 +2,38 @@
 
 ##### Cláusula de confidencialidad
 
-La información contenida en este documento es generado en el marco del Contrato 054 celebrado  
- entre LA PROCURADURÍA GENERAL DE LA NACIÓN y SYNAPSIS LTDA. Por razones de índole comercial  
- ya que la misma describe procesos sensibles de naturaleza competitiva, puede resultar en perjuicio de SYNAPSIS que sea conocido por personas distintas a aquellas a las que está dirigida, por tales razones,  
- no podrá ser reproducida, mostrada o divulgada sin el correspondiente permiso escrito de SYNAPSIS  
- Ltda. y/o LA PROCURADURÍA GENERAL DE LA NACIÓN.
+La información contenida en este documento es generado en el marco del Contrato 054 celebrado entre Camila Torres, Andres Garcia, Dayanne Agudelo y I.E.D Alfredo Iriarte, Por razones de índole comercial. ya que la misma describe procesos sensibles de naturaleza competitiva, puede resultar en perjuicio de I.E.D Alfredo Iriarte que sea conocido por personas distintas a aquellas a las que está dirigida, por tales razones, no podrá ser reproducida, mostrada o divulgada sin el correspondiente permiso escrito de Camila Torres, Andres Garcia, Dayanne Agudelo, y/o I.E.D Alfredo Iriarte.
 
 #### INTRODUCCIÓN
 
-“El cambio es un requisito sine qua non de las organizaciones contemporáneas y por más que parezca una frase gastada, quien no la asuma como un compromiso estará muy cerca de la extinción. En la actualidad, asumir que el cambio es una variable externa, ajena al equilibrio natural de las organizaciones es negar lo obvio, se está tan inmerso en él que suele confundirse con la incapacidad de percibirlo. No hay duda alguna, todos los días ocurre un cambio y si no es consecuencia de un tercero recae en cada individuo la responsabilidad de generarlo” \( tomado de artículo Prohibido Innovar del Dr. Félix Oscar Socorro”\). La Procuraduría General de la Nación, como organización dinámica y proactiva, no está ajena al cambio y al contrario lo promueve y lo impulsa decididamente a través del Proyecto de Modernización que inició en el año 2003 a través de la resolución 336. Quizá el principal fruto de este proceso de modernización es el Sistema de Información Misional SIM, mediante el cual se busca dotar a nuestra Entidad de un sistema de información moderno, único, integrado y robusto que soporte las funciones misionales en los procesos preventivo, disciplinario y de intervención, y que se refleje en la efectividad de todas las áreas de la Procuraduría.   La guía de Capacitación que se presenta a continuación, es el resultado consolidado de horas de trabajo y dedicación de Funcionarios de la PGN, Profesionales contratistas de empresas asesoras y por su puesto del compromiso de todos quienes en la institución han hecho posible esta realidad, que abre las puertas a un futuro lleno de posibilidades, en una organización que ha demostrado ser capaz de enfrentar con decisión los retos que le impone el presente.
+La guía de Capacitación que se presenta a continuación, es el resultado consolidado de horas de trabajo y dedicación, Profesionales contratistas de empresas asesoras y por su puesto del compromiso de todos quienes en la institución han hecho posible esta realidad, que abre las puertas a un futuro lleno de posibilidades, en una organización que ha demostrado ser capaz de enfrentar con decisión los retos que le impone el presente.
+
+
+
+# \#DOC
+
+### Introducción
+
+Durante la fase de implantación de un sistema de información, se hace necesario capacitar a los usuarios finales en el correcto manejo del sistema desarrollado de acuerdo con las funcionalidades propias del rol de cada usuario, con el fin de obtener el mayor beneficio del sistema y minimizar los riesgos asociados al uso incorrecto del mismo.
+
+### 1. LA CAPACITACIÓN DE USUARIOS Y SU RELACIÓN CON LA FASE DE IMPLANTACIÓN DEL SISTEMA.
+
+La fase de implantación de un sistema de información inicia después de realizar y superar las pruebas del software y finaliza justo antes de poner el sistema en producción. Esta fase debe asegurar la correcta instalación y funcionamiento de la aplicación, la entrega de materiales requeridos para el mantenimiento y uso de la aplicación y la capacitación adecuada del personal que ejecutará las funcionalidades provistas por el sistema.
+
+### 2. EL PLAN DE CAPACITACIÓN
+
+#### 2.1 Introducción
+
+New Reset A.I.H.D, tiene como propósito ayudar con las incidencias que presentan los aparatos tecnológicos, estas incidencias se reportan mediante un ticket el cual llega a la plataforma de los técnicos para que ellos puedan arreglarla, de esta misma manera queda evidencia si las incidencias son reiterativas o son de vez en cuando.
+
+##### Módulos / Funcionalidades:
+
+• Registrarse nuevo usuario.• Autenticarse en el sistema.• Recuperar contraseña.• Consultar solicitud de reporte.• Modificar estado de ticket.• Cambiar contraseña.• Reportar ticket.• Consultar estado de ticket.• Consultar informe general.• Salir de sesión.
+
+#### 2.2 Justificación
+
+Esta capacitación será realizada para que cada usuario que haga uso del aplicativo, tenga como finalidad el uso correcto de este, para que no hallan inconvenientes ni incidencias al momento de usarlo.
+
+  
+
 
