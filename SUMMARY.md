@@ -2,7 +2,7 @@
 
 ## Introducción
 
-* [Introducción](README.md)
+* [Readme](README.md)
 
 ## 02. Plan de Capacitacion
 
@@ -29,3 +29,4 @@
 * [04.05 Navegación en NEW RESET A.I.H.D.](04-new-reset-aihd/0405-navegacion-en-new-reset-aihd.md)
 * [Cuál es el objetivo del SIM?](cual-es-el-objetivo-del-sim.md)
 * [MODELO DE PROCESOS DE NEGOCIO:](modelo-de-procesos-de-negocio.md)
+
