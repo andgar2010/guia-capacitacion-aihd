@@ -22,12 +22,10 @@
 
 ## 04. NEW RESET A.I.H.D.
 
-* [04.01 Qué es NEW RESET A.I.H.D.?](0401-que-es-new-reset-aihd.md)
-* [04.02 Cuál es el objetivo del NEW RESET A.I.H.D.?](0402-cual-es-el-objetivo-del-new-reset-aihd.md)
-* [04.03 Cuáles son sus beneficios?](0403-cuales-son-sus-beneficios.md)
-* [04.04 Modelo de procesos de negocio:](0404-modelo-de-procesos-de-negocio.md)
-* [04.05 Navegación en NEW RESET A.I.H.D.](0405-navegacion-en-new-reset-aihd.md)
+* [04.01 Qué es NEW RESET A.I.H.D.?](04-new-reset-aihd/0401-que-es-new-reset-aihd.md)
+* [04.02 Cuál es el objetivo del NEW RESET A.I.H.D.?](04-new-reset-aihd/0402-cual-es-el-objetivo-del-new-reset-aihd.md)
+* [04.03 Cuáles son sus beneficios?](04-new-reset-aihd/0403-cuales-son-sus-beneficios.md)
+* [04.04 Modelo de procesos de negocio:](04-new-reset-aihd/0404-modelo-de-procesos-de-negocio.md)
+* [04.05 Navegación en NEW RESET A.I.H.D.](04-new-reset-aihd/0405-navegacion-en-new-reset-aihd.md)
 * [Cuál es el objetivo del SIM?](cual-es-el-objetivo-del-sim.md)
 * [MODELO DE PROCESOS DE NEGOCIO:](modelo-de-procesos-de-negocio.md)
-* [04.05 Navegación en NEW RESET A.I.H.D.](0405-navegacion-en-new-reset-aihd.md)
-
